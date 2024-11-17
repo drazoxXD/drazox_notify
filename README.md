@@ -7,7 +7,8 @@ Using FontAwesome 6.4.2 and MDI 7.4.47
 
 # Showcase
 
-
+![Imgur](https://i.imgur.com/zhPg4XW.gif)
+[Link if image not loading!](https://i.imgur.com/zhPg4XW.gif)
 
 # Useage
 ```lua
