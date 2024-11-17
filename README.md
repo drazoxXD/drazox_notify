@@ -10,7 +10,7 @@ Using FontAwesome 6.4.2 and MDI 7.4.47
 ![Imgur](https://i.imgur.com/zhPg4XW.gif)
 [Link if image not loading!](https://i.imgur.com/zhPg4XW.gif)
 
-# Useage
+# Usage
 ```lua
 TriggerEvent('mv_notify:success', 'Succesfully robbed the bank!', 5000)
 TriggerEvent('mv_notify:info', 'Information', 6000)
