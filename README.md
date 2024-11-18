@@ -2,6 +2,8 @@
 # Drazox's Notify for FiveM
 
 A simple notify for simple people!
+I made this a long time ago for a server wich never opened!
+that why it has mv_notify in events!
 
 Using FontAwesome 6.4.2 and MDI 7.4.47
 
