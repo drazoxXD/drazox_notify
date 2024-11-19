@@ -31,3 +31,6 @@ I use it mostly on server side
 
 ### Why does the UI code look bad?  
 Deal with it!
+
+# License
+GNU General Public License v3.0
